@@ -1,0 +1,45 @@
+.bgimg{
+	background-image: url('masthead.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 660px;
+}
+
+.headerset{
+	padding-left:90px;
+	padding-top:150px;
+}
+
+.hang{
+	positon:absolute;
+	padding-top:110px;
+	padding-left:180px;
+	text-align: justify;
+
+}
+
+.lung{
+	positon:absolute;
+	padding-top:50px;
+	padding-left:180px;
+	text-align: justify;
+	background-color:#404040;
+	padding-bottom: 10px;
+
+}
+
+.social{
+	font-size: 30px;
+	
+
+
+}
+
+.chang{
+	positon:absolute;
+	padding-top:110px;
+	padding-left:180px;
+	text-align: justify;
+	
+
